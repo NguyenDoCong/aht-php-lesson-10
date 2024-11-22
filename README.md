@@ -13,7 +13,7 @@
 ![image](https://github.com/user-attachments/assets/4e931a73-4c17-4b6f-ba5c-a2369bf929c6)
 - Sửa đổi view
 ![image](https://github.com/user-attachments/assets/3a9e7c23-a4a4-4741-ae81-f894289d18b2)
-- oá view
+- Xoá view
 ![image](https://github.com/user-attachments/assets/23236345-5a4c-46db-9a76-0d05168a1390)
 
 
