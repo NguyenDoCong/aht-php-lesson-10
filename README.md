@@ -28,4 +28,7 @@
 ![image](https://github.com/user-attachments/assets/1ebe6fc4-059a-4cfe-8398-73a2640f3a2b)
 
 ## Notes
-- 22/11 - Dùng param thay vì cộng chuỗi trong query
+### 22/11 
+- Dùng param thay vì cộng chuỗi trong query
+- Tạo index trong phpmyadmin
+- Tạo view trong phpmyadmin
