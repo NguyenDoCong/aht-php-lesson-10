@@ -8,7 +8,7 @@
 ![Index](https://github.com/user-attachments/assets/f3e664be-4070-4034-93e7-fb848ce21d25)
 ## View, Index, Store Procedure
 - Tạo index
-![image](https://github.com/user-attachments/assets/ba0e86f5-309d-4fea-9841-e835a19ac59d)
+![image](https://github.com/user-attachments/assets/6ad18c40-cdbe-4fe3-b91b-a1878df94972)
 - Tạo view
 ![image](https://github.com/user-attachments/assets/4e931a73-4c17-4b6f-ba5c-a2369bf929c6)
 - Sửa đổi view
